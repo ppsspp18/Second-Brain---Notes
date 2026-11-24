@@ -1,0 +1,15 @@
+{
+  "instructions": [
+    "AGENTS.md"
+  ],
+  "permission": {
+    "read": "allow",
+    "glob": "allow",
+    "grep": "allow",
+    "skill": {
+      "*": "allow"
+    },
+    "edit": "ask",
+    "bash": "ask"
+  }
+}
